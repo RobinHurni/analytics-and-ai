@@ -1,0 +1,88 @@
+2024-10-25 16:40:46 - Difficulty: Hard - Winner: Tie - First Player: X
+2024-10-25 16:40:57 - Difficulty: Medium - Winner: X - First Player: O
+2024-10-25 16:41:05 - Difficulty: Medium - Winner: Tie - First Player: X
+2024-10-25 16:41:30 - Difficulty: Medium - Winner: O - First Player: O
+2024-10-25 16:41:38 - Difficulty: Medium - Winner: Tie - First Player: X
+2024-10-25 16:41:42 - Difficulty: Medium - Winner: O - First Player: O
+2024-10-25 16:41:49 - Difficulty: Medium - Winner: X - First Player: X
+2024-10-25 16:41:56 - Difficulty: Medium - Winner: O - First Player: O
+2024-10-25 16:42:00 - Difficulty: Medium - Winner: X - First Player: X
+2024-10-25 16:42:06 - Difficulty: Medium - Winner: O - First Player: O
+2024-10-25 16:42:16 - Difficulty: Medium - Winner: X - First Player: X
+2024-10-25 16:45:31 - Difficulty: Hard - Winner: Tie - First Player: X
+2024-10-25 16:50:02 - Difficulty: Hard - Winner: Tie - First Player: X
+2024-10-25 16:53:10 - Difficulty: Medium - Winner: Tie - First Player: X
+2024-10-28 15:09:27 - Difficulty: Medium - Winner: X - First Player: X
+2024-10-28 15:09:34 - Difficulty: Medium - Winner: X - First Player: O
+2024-10-28 15:09:39 - Difficulty: Medium - Winner: X - First Player: X
+2024-10-28 15:09:49 - Difficulty: Medium - Winner: X - First Player: O
+2024-10-28 15:09:54 - Difficulty: Medium - Winner: X - First Player: X
+2024-10-28 15:10:01 - Difficulty: Medium - Winner: O - First Player: O
+2024-10-28 15:10:08 - Difficulty: Medium - Winner: Tie - First Player: X
+2024-10-28 15:10:18 - Difficulty: Medium - Winner: Tie - First Player: O
+2024-10-28 15:10:21 - Difficulty: Medium - Winner: X - First Player: X
+2024-10-28 15:10:27 - Difficulty: Medium - Winner: X - First Player: O
+2024-10-28 15:13:04 - Difficulty: Hard - Winner: Tie - First Player: X
+2024-10-28 15:13:13 - Difficulty: Hard - Winner: O - First Player: O
+2024-10-28 15:13:17 - Difficulty: Hard - Winner: X - First Player: X
+2024-10-28 15:13:25 - Difficulty: Hard - Winner: X - First Player: O
+2024-10-28 15:13:33 - Difficulty: Hard - Winner: Tie - First Player: X
+2024-10-28 15:13:44 - Difficulty: Hard - Winner: Tie - First Player: O
+2024-10-28 15:13:49 - Difficulty: Hard - Winner: Tie - First Player: X
+2024-10-28 15:13:55 - Difficulty: Hard - Winner: X - First Player: O
+2024-10-28 15:13:59 - Difficulty: Hard - Winner: X - First Player: X
+2024-10-28 15:14:06 - Difficulty: Hard - Winner: X - First Player: O
+2024-10-28 15:14:45 - Difficulty: Very Hard - Winner: Tie - First Player: X
+2024-10-28 15:14:55 - Difficulty: Very Hard - Winner: Tie - First Player: O
+2024-10-28 15:14:59 - Difficulty: Very Hard - Winner: Tie - First Player: X
+2024-10-28 15:15:09 - Difficulty: Very Hard - Winner: Tie - First Player: O
+2024-10-28 15:15:15 - Difficulty: Very Hard - Winner: Tie - First Player: X
+2024-10-28 15:26:29 - Difficulty: Easy - Winner: X - First Player: X
+2024-10-28 15:26:32 - Difficulty: Easy - Winner: X - First Player: O
+2024-10-28 15:26:34 - Difficulty: Easy - Winner: X - First Player: X
+2024-10-28 15:26:36 - Difficulty: Easy - Winner: X - First Player: O
+2024-10-28 15:26:38 - Difficulty: Easy - Winner: X - First Player: X
+2024-10-28 15:26:40 - Difficulty: Easy - Winner: X - First Player: O
+2024-10-28 15:26:45 - Difficulty: Easy - Winner: X - First Player: X
+2024-10-28 15:26:48 - Difficulty: Easy - Winner: O - First Player: O
+2024-10-28 15:26:50 - Difficulty: Easy - Winner: X - First Player: X
+2024-10-28 15:26:52 - Difficulty: Easy - Winner: X - First Player: O
+2024-10-28 15:26:54 - Difficulty: Easy - Winner: X - First Player: X
+2024-10-28 15:26:56 - Difficulty: Easy - Winner: X - First Player: O
+2024-10-28 15:26:58 - Difficulty: Easy - Winner: X - First Player: X
+2024-10-28 15:27:00 - Difficulty: Easy - Winner: X - First Player: O
+2024-10-28 15:27:02 - Difficulty: Easy - Winner: X - First Player: X
+2024-10-28 15:27:07 - Difficulty: Easy - Winner: O - First Player: O
+2024-10-28 15:27:11 - Difficulty: Easy - Winner: X - First Player: X
+2024-10-28 15:27:13 - Difficulty: Easy - Winner: X - First Player: O
+2024-10-28 15:27:21 - Difficulty: Easy - Winner: Tie - First Player: X
+2024-10-28 15:27:25 - Difficulty: Easy - Winner: O - First Player: O
+2024-10-28 15:27:29 - Difficulty: Easy - Winner: X - First Player: X
+2024-10-28 20:32:13 - Difficulty: Medium - Winner: X - First Player: X
+2024-10-28 20:32:17 - Difficulty: Medium - Winner: X - First Player: O
+2024-10-28 20:32:20 - Difficulty: Medium - Winner: O - First Player: X
+2024-10-28 20:32:30 - Difficulty: Medium - Winner: Tie - First Player: O
+2024-10-28 20:32:36 - Difficulty: Medium - Winner: Tie - First Player: X
+2024-10-28 20:32:39 - Difficulty: Medium - Winner: X - First Player: O
+2024-10-28 20:32:43 - Difficulty: Medium - Winner: X - First Player: X
+2024-10-28 20:33:00 - Difficulty: Hard - Winner: Tie - First Player: O
+2024-10-28 20:33:06 - Difficulty: Hard - Winner: Tie - First Player: X
+2024-10-28 20:33:16 - Difficulty: Hard - Winner: X - First Player: O
+2024-10-28 20:33:25 - Difficulty: Hard - Winner: Tie - First Player: X
+2024-10-28 20:33:37 - Difficulty: Very Hard - Winner: Tie - First Player: O
+2024-10-28 20:33:42 - Difficulty: Very Hard - Winner: O - First Player: X
+2024-10-28 20:33:51 - Difficulty: Very Hard - Winner: Tie - First Player: O
+2024-10-28 20:33:57 - Difficulty: Very Hard - Winner: Tie - First Player: X
+2024-10-28 20:34:06 - Difficulty: Easy - Winner: X - First Player: O
+2024-10-28 20:34:10 - Difficulty: Easy - Winner: X - First Player: X
+2024-10-28 20:34:13 - Difficulty: Easy - Winner: Tie - First Player: O
+2024-10-28 20:37:23 - Difficulty: Medium - Winner: X - First Player: X
+2024-10-28 20:38:44 - Difficulty: Two Players - Winner: Tie - First Player: O
+2024-10-28 20:40:18 - Difficulty: Medium - Winner: O - First Player: X
+2024-10-28 20:40:31 - Difficulty: Medium - Winner: Tie - First Player: O
+2024-10-28 20:40:37 - Difficulty: Medium - Winner: X - First Player: X
+2024-10-28 20:40:42 - Difficulty: Medium - Winner: Tie - First Player: O
+2024-10-28 20:40:52 - Difficulty: Medium - Winner: X - First Player: X
+2024-10-29 11:01:56 - Difficulty: Hard - Winner: X - First Player: X
+2024-10-29 11:02:12 - Difficulty: Hard - Winner: X - First Player: O
+2024-10-29 11:02:20 - Difficulty: Very Hard - Winner: Tie - First Player: X
